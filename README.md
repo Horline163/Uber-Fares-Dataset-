@@ -6,6 +6,7 @@ Course: Introduction to Big Data Analytic INSY 8413
 Instructor: Eric Maniraguha
 Date: July 27, 2025
 
+
 Project Overview & Objectives
 Our primary goal was to conduct a comprehensive analysis of the Uber Fares Dataset. This involved delving deep into fare patterns, ride durations, and various key operational metrics to derive actionable insights that can optimize Uber's service delivery and profitability.
 
@@ -13,7 +14,7 @@ Tools Utilized
 Python with Panda DataFrame: Leveraged for robust data preparation, extensive Exploratory Data Analysis (EDA), and sophisticated feature engineering.
 
 Power BI: Employed for creating interactive, dynamic dashboards and compelling data visualizations, enabling easy exploration of insights.
-
+Here's is the link for the dashboard done in Power BI: https://drive.google.com/file/d/1SKjEju2P8hP5YUra6eJhNzXptsU2iAre/view?usp=drive_link
 Key Analytical Questions
 What are the prevailing fare distribution patterns across rides?
 
