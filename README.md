@@ -15,6 +15,7 @@ Python with Panda DataFrame: Leveraged for robust data preparation, extensive Ex
 
 Power BI: Employed for creating interactive, dynamic dashboards and compelling data visualizations, enabling easy exploration of insights.
 Here's is the link for the dashboard done in Power BI: https://drive.google.com/file/d/1SKjEju2P8hP5YUra6eJhNzXptsU2iAre/view?usp=drive_link
+
 Key Analytical Questions
 What are the prevailing fare distribution patterns across rides?
 
